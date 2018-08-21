@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Intent Debugging</string>
+    <string name="title_activity_main">Implicit Intent Debugging</string>
+    <string name="title_1">First Name</string>
+    <string name="title_2">Last Name</string>
+    <string name="title_3">Age</string>
+    <string name="type">com.fullsail.android.jav2ce08.EXTRA_STRING_LAST_NAME</string>
+    <string name="title_activity_view">ViewActivity</string>
+</resources>
